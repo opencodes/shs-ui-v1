@@ -1,0 +1,6 @@
+{
+  "name": "Auralis",
+  "description": "Auralis - AI audio that sounds human. High-fidelity voice generator, studio editing, and conversational agents.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
